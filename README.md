@@ -1,3 +1,2 @@
 # Chatbot
-Chatbot is an app where you can talking with chatbot.
-First execute query (SELECT * FROM chatbot.chat) from database to see all messages and responses.
+Chatbot is an app where you can talk with a chatbot. First, execute the query (SELECT * FROM chatbot. chat) from the database to see all messages and responses.
